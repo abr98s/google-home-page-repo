@@ -1,2 +1,2 @@
-This is one.txt file. ami aro kichu add korlam. Some text were added.
+This is one.txt file.
 New text were added with main branch.
